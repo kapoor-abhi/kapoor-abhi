@@ -1,8 +1,3 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="Screenshots/photo1.png" width="100%" alt="Header Image">
-</p>
-
 <h1 align="center">Abhishek Kapoor</h1>
 <h3 align="center">Data Scientist</h3>
 
@@ -25,11 +20,6 @@ I specialize in transforming raw, unstructured data into meaningful insights, sc
 I believe in evidence over intuition, experiments over assumptions, and data over opinions.
 
 > **Data speaks louder than assumptions.**
-
----
-
-<!-- Visual Divider Section -->
-
 
 ---
 
