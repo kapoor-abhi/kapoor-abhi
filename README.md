@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="Screenshots/photo.png" width="100%" alt="Header Image">
+  <img src="Screenshots/photo1.png" width="100%" alt="Header Image">
 </p>
 
 <h1 align="center">Abhishek Kapoor</h1>
