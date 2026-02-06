@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Abhishek Kapoor</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | LLM Systems Builder</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="center">
   Turning data into intelligence. Turning models into systems.
