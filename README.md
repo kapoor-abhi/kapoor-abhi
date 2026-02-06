@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="Screenshots/photo.png" width="80%" alt="Header Image">
+  <img src="Screenshots/photo.png" width="100%" alt="Header Image">
 </p>
 
 <h1 align="center">Abhishek Kapoor</h1>
@@ -28,9 +28,11 @@ I believe in evidence over intuition, experiments over assumptions, and data ove
 
 ---
 
-<!-- Divider Image -->
+<!-- Visual Divider Section -->
 <p align="center">
-  <img src="Screenshots/photo-2.avif" width="30%" alt="Section Divider">
+  <img src="Screenshots/photo-2.avif" width="30%" alt="Visual 1" />
+  <img src="Screenshots/photo-3.png"  width="30%" alt="Visual 2" />
+  <img src="Screenshots/photo-4.png"  width="30%" alt="Visual 3" />
 </p>
 
 ---
