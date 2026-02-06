@@ -30,7 +30,7 @@ I believe in evidence over intuition, experiments over assumptions, and data ove
 
 <!-- Visual Divider Section -->
 <p align="center">
-  <img src="Screenshots/photo-2.png" width="30%" alt="Visual 1" />
+  <img src="Screenshots/photo-2.jpg" width="30%" alt="Visual 1" />
   <img src="Screenshots/photo-3.png"  width="30%" alt="Visual 2" />
   <img src="Screenshots/photo-4.png"  width="30%" alt="Visual 3" />
 </p>
