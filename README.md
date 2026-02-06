@@ -30,12 +30,12 @@ I believe in evidence over intuition, experiments over assumptions, and data ove
 
 <!-- Divider Image -->
 <p align="center">
-  <img src="Screenshots/photo-2.avif" width="90%" alt="Section Divider">
+  <img src="Screenshots/photo-2.avif" width="30%" alt="Section Divider">
 </p>
 
 ---
 
-## echnical Focus
+## Technical Focus
 
 - Machine Learning & Deep Learning
 - Large Language Models & AI Agents
